@@ -1,0 +1,8 @@
+.vc-music-btn-icon {
+    color: var(--interactive-normal);
+    transition: color 0.15s ease;
+}
+
+.vc-music-btn:hover .vc-music-btn-icon {
+    color: var(--interactive-hover);
+}
